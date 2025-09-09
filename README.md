@@ -18,11 +18,11 @@ node blockchain.js
 ### Mined Blocks
 ![Image](https://github.com/user-attachments/assets/b39646b0-e419-468d-b08c-41d8ff6c1e75)
 
-## Full Chain
+### Full Chain
 ![Image](https://github.com/user-attachments/assets/716fdc37-80b9-4f5d-b983-1b50d020647e)
 ![Image](https://github.com/user-attachments/assets/e303d5c3-57be-48d3-a560-00a05db7ebc3)
 
-## Valid Chain = true & Tampered Chain = false
+### Valid Chain = true & Tampered Chain = false
 ![Image](https://github.com/user-attachments/assets/7565da1c-b4e2-4216-baef-d7eb2d78f0f9)
 
 ## Reflection
